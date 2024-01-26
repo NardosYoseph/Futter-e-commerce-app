@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'register_page.dart';
 
-class                            WelcomeBackPage extends StatefulWidget {
+class WelcomeBackPage extends StatefulWidget {
   @override
   _WelcomeBackPageState createState() => _WelcomeBackPageState();
 }

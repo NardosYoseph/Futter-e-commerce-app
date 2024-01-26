@@ -48,6 +48,12 @@ class _CategoryListPageState extends State<CategoryListPage> {
       'Appliances',
       'assets/jeans_5.png',
     ),
+    Category(
+      Color(0xffF123C4),
+      Color(0xff668CEA),
+      'Appliances',
+      'assets/jeans_5.png',
+    ),
   ];
 
   List<Category> searchResults = [];
